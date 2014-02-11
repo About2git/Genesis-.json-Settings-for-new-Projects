@@ -28,3 +28,5 @@ These settings are based on the recommandations from Joost de Valk: https://yoas
 	*  Apply noarchive to Search Archives?
 	*  Apply nooodp to your site?
 	*  Apply noydir to your site?
+
+## Added YOAST SEO Settings
